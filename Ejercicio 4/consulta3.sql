@@ -1,0 +1,1 @@
+select * from seccion where superficie > 1500 and cod_distrito ='D01';

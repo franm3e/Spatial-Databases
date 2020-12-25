@@ -1,0 +1,9 @@
+"Distrito","Madera","Modernista","Noble","Tradicional"
+"Centro",NULL,"2",NULL,"3"
+"Este",NULL,"2",NULL,"3"
+"Noreste",NULL,NULL,"3",NULL
+"Noroeste",NULL,"3",NULL,"6"
+"Norte","5","8",NULL,NULL
+"Oeste","2",NULL,NULL,"3"
+"Sur","2","2",NULL,"3"
+"Sureste","2",NULL,NULL,NULL

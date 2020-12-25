@@ -1,0 +1,1 @@
+select nombre from distrito where cod_distrito = 'D01';

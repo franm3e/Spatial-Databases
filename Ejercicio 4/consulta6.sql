@@ -1,0 +1,1 @@
+select avg(superficie) as sup_media from seccion group by cod_distrito order by sup_media;

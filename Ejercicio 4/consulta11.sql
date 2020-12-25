@@ -1,0 +1,2 @@
+select distrito.nombre, 100 * sum(seccion.t0_4 + seccion.t5_10 + seccion.t11_14) / sum(seccion.varones + seccion.mujeres) as tasa_juventud
+from seccion, distrito where distrito.cod_distrito = seccion.cod_distrito group by distrito.nombre;
